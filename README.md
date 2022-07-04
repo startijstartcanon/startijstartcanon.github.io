@@ -1,6 +1,6 @@
 #  ij.start.canon 
 
-[![ij.start.canon](lets-get-started.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](get-start.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
 
 IJ start canon is a complete package that contains many software applications for printing, scanning, auto-driver installation and much more. With **[ij.start.canon](https://startijstartcanon.github.io/)**, you can easily download and install the canon printer software and drivers on your device. It a one-stop shop for all your printer needs. 
 
